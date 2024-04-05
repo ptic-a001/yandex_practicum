@@ -1,2 +1,2 @@
 # yandex_practicum
-pet-projects
+Пет проекты написанные на курсе data science bootcamp
